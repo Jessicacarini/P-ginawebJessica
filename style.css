@@ -6,3 +6,9 @@ body{
 
 
 }
+header{
+   border-bottom: solid 2px royalblue;
+   padding: 20px;
+   font-size: 32px;
+   color: royalblue;
+}
